@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c877d19c50ff040b36c6079c857c70, type: 3}
+  m_Name: NaturalUp
+  m_EditorClassIdentifier: Assembly-CSharp::NaturalUpEffect
+  powerUpName: NaturalUp
+  duration: 10
+  powerUpShader: {fileID: -876546973899608171, guid: 9b8f89e8dc35ffb4ab938f627b5a6128, type: 3}
+  vfxParticlesPrefab: {fileID: 9135648032431790608, guid: 0bf5b1c08fa206742b4d4a395999a75d, type: 3}
+  healingAuraPrefab: {fileID: 5643022083356930354, guid: eafdf02e7d06c5f43b3927ea36bfac09, type: 3}

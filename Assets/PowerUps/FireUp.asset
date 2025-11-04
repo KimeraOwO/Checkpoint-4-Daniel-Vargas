@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 013ab36d47becfc4eb6592d9063de618, type: 3}
+  m_Name: FireUp
+  m_EditorClassIdentifier: Assembly-CSharp::FireUpEffect
+  powerUpName: FireUp
+  duration: 10
+  powerUpShader: {fileID: -876546973899608171, guid: 2a12ec9c4b67c6245a3142b5464d6707, type: 3}
+  vfxParticlesPrefab: {fileID: 6916023532378253031, guid: 8f4e2536d3e633241a79e01f81107522, type: 3}
+  fireAuraPrefab: {fileID: 3853496059917288447, guid: 867ddfb4576fb5f4692d0080df76bad3, type: 3}

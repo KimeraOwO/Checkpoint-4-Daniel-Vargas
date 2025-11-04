@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f00771167550204f865b078cc4f57f5, type: 3}
+  m_Name: JumpUp
+  m_EditorClassIdentifier: Assembly-CSharp::JumpUpEffect
+  powerUpName: JumpUp
+  duration: 10
+  powerUpShader: {fileID: -876546973899608171, guid: be0a305b5719b0e4aac1213a4bd94280, type: 3}
+  vfxParticlesPrefab: {fileID: 9114716301532241363, guid: fd4341cde463b704a889998c28cc88ba, type: 3}
+  jumpMultiplier: 2

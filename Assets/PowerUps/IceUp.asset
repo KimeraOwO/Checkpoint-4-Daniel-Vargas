@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2318d84b8be0ec43b2bb0dba6ea8eef, type: 3}
+  m_Name: IceUp
+  m_EditorClassIdentifier: Assembly-CSharp::IceUpEffect
+  powerUpName: IceUp
+  duration: 10
+  powerUpShader: {fileID: -876546973899608171, guid: 0423d0bf0c33d2841af0dc0cba53ff06, type: 3}
+  vfxParticlesPrefab: {fileID: 5795378152361006210, guid: 49323a5fb31233e418a56d357c52377c, type: 3}
+  iceAuraPrefab: {fileID: 5593461062173002638, guid: 36b5d421624bfaf45974cc2d34f2628f, type: 3}
